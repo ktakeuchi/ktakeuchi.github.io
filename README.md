@@ -1,1 +1,4 @@
-# ktakeuchi.github.io
+# Data Science
+
+### Education
+BS Computer Engineering, Machine Learning
