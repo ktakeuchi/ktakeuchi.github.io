@@ -8,5 +8,5 @@ Undergraduate Researcher
 Data Scientist Intern
 
 ### Projects
-Whatever
+USAPL National Championship Data Analysis
 
